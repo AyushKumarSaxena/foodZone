@@ -1,0 +1,45 @@
+<div className="bg-gray-100">
+        <header className="bg-red-700 text-white py-4">
+          <div className="container mx-auto flex justify-between items-center px-4">
+            <h1 className="text-2xl font-bold">Welcome to Domino's Pizza</h1>
+            <nav>
+              <ul className="flex space-x-4">
+                <li><a href="#menu" className="hover:text-gray-300">Menu</a></li>
+                {username ? (
+                  <li><a href="/profile" className="hover:text-gray-300">{username}</a></li>
+                ) : (
+                  <li><a href="/signup" className="hover:text-gray-300">Signup</a></li>
+                )}
+              </ul>
+            </nav>
+          </div>
+        </header>
+        <section className="bg-red-700 text-white py-20">
+          <div className="container mx-auto px-4 text-center">
+            <h2 className="text-4xl font-bold mb-4">Order Delicious Pizza Online</h2>
+            <p className="text-lg mb-8">Choose from our wide range of pizzas and enjoy hot and fresh delivery to your doorstep!</p>
+            <a href="#menu" className="bg-white text-red-700 py-2 px-6 rounded-full font-semibold text-lg hover:bg-gray-200 transition duration-300">Order Now</a>
+          </div>
+        </section>
+        <section id="menu" className="py-20 min-h-screen">
+          <div className="container mx-auto px-4">
+            <h2 className="text-3xl font-bold mb-8 text-center">Our Menu</h2>
+            <div className="container mx-auto px-4 grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-6">
+              {/* <ItemCard addToCart={addToCart} />
+              <ItemCard addToCart={addToCart} />
+              <ItemCard addToCart={addToCart} />
+              <ItemCard addToCart={addToCart} /> */}
+              {dummyItems.map((item) => (
+              <ItemCard key={item.id} item={item} addToCart={addToCart} />
+            ))}
+              {/* Render other ItemCards similarly */}
+            </div>
+          </div>
+        </section>
+        <Cart cartItems={cartItems} increaseQuantity={increaseQuantity} decreaseQuantity={decreaseQuantity} />
+        <footer className="bg-red-700 text-white py-8">
+          <div className="container mx-auto text-center">
+            <p>&copy; 2024 Domino's Pizza. All rights reserved.</p>
+          </div>
+        </footer>
+      </div>

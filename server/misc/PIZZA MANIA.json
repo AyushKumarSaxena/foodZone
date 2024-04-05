@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Golden Corn",
+    "description": "Sweet & juicy golden corn for that lipsmacking taste",
+    "price": 89,
+    "image": "nextgen-catalog/media/prod/Dominos/menu/dfca3ef9-0c5b-4eb0-9560-63e21e2de76e_PMGoldneCornMenu.jpg"
+  },
+  {
+    "name": "Paneer, Onion & Capsicum with Desi Makhani Sauce",
+    "description": "Authentic Indian Flavor of Makhani Sauce loaded with juicy Paneer, crisp Capsicum and crunchy Onion.",
+    "price": 129,
+    "image": "nextgen-catalog/media/prod/Dominos/menu/c19dce01-b1a6-4cb7-b8f4-46fc8bef6d1e_PMOnionCapsicumPaneerMenu.jpg"
+  },
+  {
+    "name": "Veg Loaded",
+    "description": "Tomato, Jalapeno, Corn, Grilled Mushroom & crushed Aranchini Patty in a fresh pan crust",
+    "price": 189,
+    "image": "nextgen-catalog/media/prod/Dominos/menu/3230bbf0-6e35-4883-8e3f-1a4c27db34e9_pizza_mania_veg_loaded.png"
+  },
+  {
+    "name": "Paneer & Capsicum with Videshi Hot Sauce",
+    "description": "Internationally inspired Hot sauce to cater your spice cravings loaded with juicy Paneer and crisp Capsicum.",
+    "price": 154,
+    "image": "nextgen-catalog/media/prod/Dominos/menu/2298f549-61a2-4d09-ab17-f0d7c343359d_PMPaneerCapsicumMenu.jpg"
+  },
+  {
+    "name": "Cheesy",
+    "description": "Cheese lovers paradise, loaded with mozzarella, cheddar & gouda cheese",
+    "price": 109,
+    "image": "nextgen-catalog/media/prod/Dominos/menu/525d6dc0-f614-4301-852b-950c0380073b_pizza_mania_cheesy.png"
+  },
+  {
+    "name": "Onion",
+    "description": "Our classic Pizza Mania topped with crunchy Onions",
+    "price": 69,
+    "image": "nextgen-catalog/media/prod/Dominos/menu/faf9777c-d37b-4029-9a5e-474de2ce568f_pizza_mania_onion.png"
+  },
+  {
+    "name": "Classic",
+    "description": "A classic pizza topped with sprinkle of basil and parsley herbs",
+    "price": 49,
+    "image": "nextgen-catalog/media/prod/Dominos/menu/273c740b-de36-4c51-b84d-422563e43fe6_PMClassicMenu.jpg"
+  },
+  {
+    "name": "Capsicum & Red Paprika with Videshi Hot Sauce",
+    "description": "Internationally inspired Hot sauce to cater your spice cravings loaded with crisp Capsicum and spicy Red Paprika.",
+    "price": 89,
+    "image": "nextgen-catalog/media/prod/Dominos/menu/b1b85fa4-7d9c-4af2-a8c9-bb1a1649be97_PMCapsicumPaprikaMenu.jpg"
+  }
+]

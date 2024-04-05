@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Blazing Onion & Paprika",
+    "description": "Hot & spicy pizza with onion & red paprika toppings and a new spicy peri peri sauce on a Domino's cheesy base.",
+    "price": 329,
+    "image": "nextgen-catalog/media/prod/Dominos/menu/10ddf620-ae20-477f-b4b2-9bce1ded021d_BlazingOnionPaprikacartmenu.jpeg"
+  },
+  {
+    "name": "Fiery Jalapeno & Paprika",
+    "description": "Spiciest veg pizza with jalapeno & red paprika toppings and a new spicy peri peri sauce.",
+    "price": 329,
+    "image": "nextgen-catalog/media/prod/Dominos/menu/32e820bc-65d1-4cbe-b688-61a90ff30f6a_Jalapeno&PaprikaBlast.jpg"
+  }
+]

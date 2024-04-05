@@ -1,0 +1,40 @@
+[{
+  "_id": {
+    "$oid": "65e413767715225a7a6b600c"
+  },
+  "tableID": "table_001",
+  "seats": 4,
+  "location": "Window-side"
+},
+{
+  "_id": {
+    "$oid": "65e413767715225a7a6b600d"
+  },
+  "tableID": "table_002",
+  "seats": 6,
+  "location": "Near Bar"
+},
+{
+  "_id": {
+    "$oid": "65e413767715225a7a6b600e"
+  },
+  "tableID": "table_003",
+  "seats": 2,
+  "location": "Corner"
+},
+{
+  "_id": {
+    "$oid": "65e413767715225a7a6b600f"
+  },
+  "tableID": "table_004",
+  "seats": 8,
+  "location": "Center"
+},
+{
+  "_id": {
+    "$oid": "65e413767715225a7a6b6010"
+  },
+  "tableID": "table_005",
+  "seats": 4,
+  "location": "Patio"
+}]

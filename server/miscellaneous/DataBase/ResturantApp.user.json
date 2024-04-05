@@ -1,0 +1,45 @@
+[{
+  "_id": {
+    "$oid": "65e81d947e737337be734f48"
+  },
+  "type": "admin",
+  "email": "ayush@mail.com",
+  "password": "ayushPassword",
+  "userName": "Ayush"
+},
+{
+  "_id": {
+    "$oid": "65e821ce81f98989ff8206b2"
+  },
+  "type": "user",
+  "email": "parth@mail.com",
+  "password": "parthPassword",
+  "userName": "Parth"
+},
+{
+  "_id": {
+    "$oid": "65e8225281f98989ff8206b3"
+  },
+  "type": "user",
+  "email": "diya@mail.com",
+  "password": "diyaPassword",
+  "userName": "Diya"
+},
+{
+  "_id": {
+    "$oid": "65e8234781f98989ff8206b4"
+  },
+  "type": "user",
+  "email": "nayan@mail.com",
+  "password": "nayanPassword",
+  "userName": "Nayan"
+},
+{
+  "_id": {
+    "$oid": "65e8236281f98989ff8206b5"
+  },
+  "type": "user",
+  "email": "bharat@mail.com",
+  "password": "bharatPassword",
+  "userName": "Bharat"
+}]

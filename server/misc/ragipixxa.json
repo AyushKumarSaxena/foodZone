@@ -1,0 +1,31 @@
+[
+  {
+    "name": "Indi Tandoori Paneer",
+    "description": "Enjoy your favourite hot & spicy pizza, now with the goodness of our new Ragi Super Crust. Made with 100% Mozzarella Cheese & topped with tandoori Paneer, crisp Capsicum, spicy red Paprika & garnished with mint mayo. Our delicious Ragi crust is also packed with super-seeds such as Sunflower, Watermelon, Pumpkin & Flax seeds for extra touch of goodness.",
+    "price": 398,
+    "image": "nextgen-catalog/media/prod/Dominos/menu/18da6c77-eeab-4fb4-bf94-f4ca4c793c30_IndiTandooriPaneerragimenu.jpg"
+  },
+  {
+    "name": "Veggie Paradise",
+    "description": "Enjoy your favourite pizza, now with the goodness of our new Ragi Super Crust. Made with 100% Mozzarella Cheese & topped with golden Corn, crisp Capsicum, black Olives & spicy red Paprika. Our delicious Ragi crust is also packed with super-seeds such as Sunflower, Watermelon, Pumpkin & Flax seeds for extra touch of goodness.",
+    "price": 358,
+    "image": "nextgen-catalog/media/prod/Dominos/menu/7c715dae-0c1d-4ca3-a750-2c348edb99a7_VegParadiseragimenu.jpg"
+  },
+  {
+    "name": "Peppy Paneer",
+    "description": "Relish our all-time bestseller, now with the goodness of our new Ragi Super Crust. Made with 100% Mozzarella Cheese & topped with masala Paneer, crisp Capsicum & spicy red Paprika. Our delicious Ragi crust is also packed with super-seeds such as Sunflower, Watermelon, Pumpkin & Flax seeds for extra touch of goodness.",
+    "price": 358,
+    "image": "nextgen-catalog/media/prod/Dominos/menu/66d9711f-1274-4fc9-8116-4217f9c8aca7_PeppyPaneerragi.jpg"
+  },
+  {
+    "name": "Margherita",
+    "description": "Enjoy the all-time Classic delight, now with the goodness of our new Ragi Super Crust. Made with 100% mozzarella cheese, our delicious Ragi crust is also packed with super-seeds such as Sunflower, Watermelon, Pumpkin & Flax seeds for extra touch of goodness.",
+    "price": 208,
+    "image": "nextgen-catalog/media/prod/Dominos/menu/8dd6edd2-7758-4584-a67a-51c1bee71318_Margheritaragimenu.jpg"
+  },
+  {
+    "name": "Farmhouse",
+    "description": "Relish our all-time bestseller, now with the goodness of our new Ragi Super Crust. Made with 100% Mozzarella Cheese & topped with grilled Mushrooms, crunchy Onions, juicy Tomatoes & crisp Capsicum. Our delicious Ragi crust is also packed with super-seeds such as Sunflower, Watermelon, Pumpkin & Flax seeds for extra touch of goodness.",
+    "price": 358
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "name": "Blazing Onion & Paprika",
+    "description": "Hot & spicy pizza with onion & red paprika toppings and a new spicy peri peri sauce on a Domino's cheesy base.",
+    "price": 329,
+    "image": "nextgen-catalog/media/prod/Dominos/menu/10ddf620-ae20-477f-b4b2-9bce1ded021d_BlazingOnionPaprikacartmenu.jpeg"
+  },
+  {
+    "name": "Margherita",
+    "description": "Classic delight with 100% real mozzarella cheese",
+    "price": 239,
+    "image": "nextgen-catalog/media/prod/Dominos/menu/79bc3609-690b-440e-b8be-74694b1f3215_new_margherita_2502.jpg"
+  },
+  {
+    "name": "Farmhouse",
+    "description": "Delightful combination of onion, capsicum, tomato & grilled mushroom",
+    "price": 459,
+    "image": "nextgen-catalog/media/prod/Dominos/menu/1b892978-f689-4199-90d2-47df4e261235_farmhouse.png"
+  },
+  {
+    "name": "Peppy Paneer",
+    "description": "Flavorful trio of juicy paneer, crisp capsicum with spicy red paprika",
+    "price": 459,
+    "image": "nextgen-catalog/media/prod/Dominos/menu/f65964c6-de96-475d-a5a9-3f3698d66ee7_new_peppy_paneer.jpg"
+  },
+  {
+    "name": "Veg Extravaganza",
+    "description": "Black olives, capsicum, onion, grilled mushroom, corn, tomato, jalapeno & extra cheese",
+    "price": 549,
+    "image": "nextgen-catalog/media/prod/Dominos/menu/5f8ad75f-22d0-4dfb-80e1-852fe2f1caf9_new_veg_extravaganza.jpg"
+  },
+  {
+    "name": "Veggie Paradise",
+    "description": "The awesome foursome! Golden corn, black olives, capsicum, red paprika",
+    "price": 459,
+    "image": "nextgen-catalog/media/prod/Dominos/menu/8a9f4cab-4f46-4b71-8e9b-55bba0b96366_new_veggie_paradise.jpg"
+  },
+  {
+    "name": "Cheese n Corn",
+    "description": "A delectable combination of sweet & juicy golden corn",
+    "price": 379,
+    "image": "nextgen-catalog/media/prod/Dominos/menu/a94524cf-3acc-476a-a3a8-f0209ea9d4b2_new_cheese_n_corn.jpg"
+  },
+  {
+    "name": "Match Day Veg Combo",
+    "description": "Regular Margherita +Regular  Farmhouse + Garlic Bread + Pepsi",
+    "price": 0,
+    "image": "nextgen-catalog/media/prod/Dominos/menu/8ebce413-3275-4162-9471-8cda84290c7a_CMB1375Menu.jpg"
+  },
+  {
+    "name": "Triple Veg Delight",
+    "description": "Delightful combination of Jalapeno, Tomato and Corn on your cheesy Pizza made with No Onion No garlic sauce",
+    "price": 459,
+    "image": "nextgen-catalog/media/prod/Dominos/menu/b2e8e739-14cb-42d6-a462-f94ca3060a51_Triple-Veg-Delight-Customise.jpg"
+  },
+  {
+    "name": "Veggie Buddies",
+    "description": "Best buddies Tomato and Capsicum come together on your Fav Crust with cheese & a no onion no garlic sauce",
+    "price": 379,
+    "image": "nextgen-catalog/media/prod/Dominos/menu/ae395297-1fd7-4141-b6b1-967dcf86ae34_Veggie-Buddies-Customize.jpg"
+  },
+  {
+    "name": "Veggie Fiesta",
+    "description": "Absolute feast of Corn, Red Paprika, Capsicum & Cheese on your Fav Crust with a no onion no garlic sauce",
+    "price": 459,
+    "image": "nextgen-catalog/media/prod/Dominos/menu/7304617b-68f0-4c24-a437-2c914001d8cb_Veggie-Fiesta-Customize.jpg"
+  },
+  {
+    "name": "Paneer Spice Supreme",
+    "description": "Loaded with Paneer, Red Paprika, Olives and Jalapeno; The Best a No Onion No Garlic Pizza can get!",
+    "price": 549,
+    "image": "nextgen-catalog/media/prod/Dominos/menu/469e769e-4d7c-40c0-ac42-1ff4277ce4b6_Paneer-Spice-Supreme-Customize.jpg"
+  }
+]
